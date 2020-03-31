@@ -14,7 +14,7 @@ With 15 years of work experience on different projects, countries and languages,
 
 I have influenced decisions and performed work in several roles within the IT industry. From Developer to Director, including Solutions Architect and Technical Tester.
 
-I have been actively building Blockchain core software, currently we are engaged in [Polkadot Gossamer](https://github.com/ChainSafe/gossamer), [MDL](https://github.com/MDLlife/MDL), [Smilo](https://github.com/smilofoundation/go-smilo) and [ETC](https://ethereumclassic.org/)
+I have been actively building Blockchain core software, [MDL](https://github.com/MDLlife/MDL), [Smilo](https://github.com/smilofoundation/go-smilo) and [ETC](https://ethereumclassic.org/)
 
 You have a Vision. I know the way to get you there.
 

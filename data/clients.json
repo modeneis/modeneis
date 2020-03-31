@@ -6,12 +6,6 @@
     "link": "https://ethereum.org/"
   },
   {
-    "title": "Polkadot",
-    "description": "Polkadot is a platform with low barriers to entry for flexible, autonomous economies acting together within Polkadot’s shared security umbrella. Polkadot is a revolution, not just in blockchain technology but also towards enabling fairer peer-to-peer digital jurisdictions.",
-    "image": "images/clients/polkadot.png",
-    "link": "https://polkadot.network/"
-  },
-  {
     "title": "Skycoin",
     "description": "The Skycoin Skyminer is meticulously designed and configured to provide a rock-solid telecom backbone for the Skywire infrastructure. The custom-built hardware is focused on delivering maximum security, efficiency and performance to the software-defined network. ",
     "image": "images/clients/skycoin.png",

@@ -61,17 +61,6 @@ Smilo network, currently uses the Smilo BFT+ consensus protocol. This consensus 
 
 Besides, this consensus mechanism also empowers the community with the autonomy to run their own full-nodes. Smilo can achieve complete decentralization with enough independent full-nodes, and through this network of networks the transaction processing capabilities of the platform will be over 3000 transactions per second, increasing with every additional full-nodes.
 
-
-## Polkadot
-Polkadot empowers blockchain networks to work together under the protection of shared security
-
-
-### Gossamer
-The Golang Polkadot Runtime Environment Implementation (WIP) - [Github](https://github.com/ChainSafe/gossamer)
-
-
-## Skycoin
-
 ### MDL Talent Hub Blockchain (Skycoin codebase)
 MDL Talent Hub is the ecosystem designed to facilitate the talent sourcing market. Insightful expertise in both IT technologies and the entertainment industry allows us to bring the most efficient and effective medium for collaboration between artists, bookers, and brands.
 
