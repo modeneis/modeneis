@@ -1,11 +1,5 @@
 [
   {
-    "title": "Dusk",
-    "description": "Dusk Network: the new blockchain standard for control, compliance and collaboration.\n Dusk Network is technology for securities. An open source and secure blockchain (DLT) infrastructure that businesses use to tokenize financial instruments and automate costly processes.",
-    "image": "images/protocols/dusk.png",
-    "link": "https://chainsafe.io/"
-  },
-  {
     "title": "Ethereum",
     "description": "Ethereum is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions.",
     "image": "images/protocols/ethereum.png",
